@@ -1,0 +1,3 @@
+# Sample
+
+Default template
